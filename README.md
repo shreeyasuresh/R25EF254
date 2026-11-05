@@ -5,3 +5,5 @@ Hello, I am a Computer Science & Engineering undergraduate student at REVA Unive
 - Learning Python, Java and C programming.
 
 - Interested in IoT prototyping and embedded systems.
+
+- Goal: contribute to open source.
