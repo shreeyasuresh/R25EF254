@@ -7,3 +7,7 @@ Hello, I am a Computer Science & Engineering undergraduate student at REVA Unive
 - Interested in IoT prototyping and embedded systems.
 
 - Goal: contribute to open source.
+
+
+## Projects
+- Smart Home Automation: An IoT system using an ESP8266 NodeMCU microcontroller, relays, and temperature sensors to monitor and control appliances in real time.
